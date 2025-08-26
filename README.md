@@ -20,3 +20,6 @@ Clone the repository or save the script manually.
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
+git clone https://github.com/Redeye00007/File-organaization
+cd File-organaization
+python File-organaization.py
